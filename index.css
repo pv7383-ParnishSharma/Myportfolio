@@ -1,0 +1,37 @@
+#mypic{
+    height: 460px;
+    width: auto;
+    border-radius: 70px;
+}
+a {
+    position: relative;
+    display: inline-block;
+    font-size: 1.3em;
+
+    font-family: 'Courier New', monospace;
+    font-weight: 80;
+    text-decoration: underline;
+    overflow: hidden;
+  }
+  a:link {
+    color: navajowhite;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: navajowhite;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  
+  #main{
+    color: aqua;
+  }
